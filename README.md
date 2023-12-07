@@ -1,7 +1,5 @@
 # Compact-and-Broadband-Planar-Magic-T
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
 
 The Compact and Broadband Planar Magic-T is a novel design implemented on a 0.25 mm thick RT Duroid 6010 substrate with a dielectric constant of 10.2. It utilizes microstrip structures with microstrip to slotline transitions to achieve a broadband response, minimizing radiation losses and insertion loss.
